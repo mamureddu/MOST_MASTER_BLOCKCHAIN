@@ -1,1 +1,5 @@
 eth_utils
+pycryptodome
+pysha3
+eth_keys
+web3
